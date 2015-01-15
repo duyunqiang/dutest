@@ -9,7 +9,7 @@ package org.slive.logging.common;
 import org.slive.logging.LoggerAdapter;
 
 /**
- *
+ *  测试
  * @author Slive
  */
 public class LoggerCommonAdapterTest
