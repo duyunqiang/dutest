@@ -13,7 +13,7 @@ import org.slive.logging.LoggerAdapter;
  * @author Slive
  */
 public class LoggerCommonAdapterTest
-{
+{ 
 
 	private static LoggerAdapter logger = LoggerAdapterFacory.getLoggerAdapter(LoggerCommonAdapterTest.class);
 
